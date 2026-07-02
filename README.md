@@ -20,7 +20,3 @@ I work as an educator and facilitator in educational robotics, applying programm
 
 - LinkedIn: [https://www.linkedin.com/in/lucas-corr%C3%AAa-161593137/]
 - Email: techlux2.0@gmail.com
-
-## 📊 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
